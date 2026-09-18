@@ -1,5 +1,5 @@
 let nombreObrero = "Sebastian";
-let cantidadPrendas = 100;
+let cantidadPrendas = 10;
 
 const tarifaPrenda = 10;
 const porcentajeImpuesto = 0.03;
