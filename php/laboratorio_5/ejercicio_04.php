@@ -1,4 +1,3 @@
-
 <?php
 //FASE DE ENTRADA:DECLARCIÓN DE VARIABLES Y PREGUNTAS
 $trabajador = "Sebastian";
